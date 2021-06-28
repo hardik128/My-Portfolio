@@ -1,0 +1,37 @@
+body{
+    background-color:white;
+}
+
+h1{ 
+    color:rgb(11, 148, 228)
+
+ }
+ *{
+     border:solid
+ }
+ 
+ .header {
+
+     background-color: blue;
+     display: flexbox;
+     justify-content: space-between;
+ }
+
+ .footer {
+
+    display: flex;
+    justify-content: flex-end;
+
+ }
+
+ p,h2{
+     text-align: center;
+ }
+
+ .grid{
+     display: flex;
+     flex-wrap: wrap;
+     justify-content: space-evenly;
+ }
+
+ 
